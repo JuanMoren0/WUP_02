@@ -39,15 +39,17 @@ veggy <- cabbages
 plot(VitC~Cult,data=veggy)
 ```
   
-VitC averages within Cabbages increases useing c52  Methods rather than c39 methods.  
+VitC averages within Cabbages increases using c52  Methods rather than c39 methods.  
 
 
 ### Numerical Descriptive Results
 
 <!--Numerical results go here. Use the numerical results to describe the patterns if any that exist in the data as focused toward the research question!-->
+```{r}
+favstats(VitC~Cult,data=veggy)
+```
 
-
-
+Using cultivation 52 yields more produce and has more   weight than cultivation 39  
 
 ## Inferential Results
 
