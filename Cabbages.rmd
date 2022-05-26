@@ -55,8 +55,11 @@ Using cultivation 52 yields more produce and has more   mass than cultivation 39
 
 <!--State hypothesis clearly.  Make sure your discussion of the inferential test covers all the aspects that the test output produces, such as test statistic, p-value etc.  Make a decision about the null hypothesis, explain the assumptions on which the selected test/procedure was based, and why the chosen procedure satisfys the assumptions and is appropriate to answer the research question!-->
 
+```{r}
+t.test(VitC~Cult,data=veggy)
+```
 
-
+The t-test, shows the average of VitC in cabbages using   cultivation 52 is 64.4 units, while cultivation 39 only has   51.5 units. Clearly showing using cultivation 52 has a   little impact of VitC in cabbages.  
 
 
 # Discussion and Conclusion
