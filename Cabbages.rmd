@@ -38,7 +38,8 @@ veggy <- cabbages
 ```{r}
 plot(VitC~Cult,data=veggy)
 ```
-VitC averages within Cabbages incresses useing c52  Mwthods rather than c39 methods.  
+  
+VitC averages within Cabbages incresses useing c52  Methods rather than c39 methods.  
 
 
 ### Numerical Descriptive Results
