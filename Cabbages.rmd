@@ -65,3 +65,5 @@ The t-test, shows the average of VitC in cabbages using   cultivation 52 is 64.4
 # Discussion and Conclusion
 
 <!--Discussion and conclusion here.  If you found a relationship be sure to consider whether the relationship occurs because one of the variavbles causes the other, or whether they perhasps are related for some other reason.  Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
+
+After viewing the data of both Cultivation 39 and   Cultivation 52 from 3 different charts, there is a small   difference that impacts VitC in cabbages when useing either   Cultivation.  
